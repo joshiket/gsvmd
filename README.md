@@ -1,1 +1,1 @@
-# gsvmd
+members' directory project
